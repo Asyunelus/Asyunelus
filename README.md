@@ -19,6 +19,7 @@
 <!--- 😄 Pronouns: ...-->
 <!-- ⚡ Fun fact: ...-->
 
+- 현재 Private Study Project으로 Nodejs + Cassandra NoSQL 팀 프로젝트 진행중. 완료시 Public으로 전환 예정.  
 
 - 2023 ~ 2024년 : 공익근무
 - 2020년 ~ : 청강문화산업대학교 재학
